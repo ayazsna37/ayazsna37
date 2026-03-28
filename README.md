@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Ayaz! 👋
 
-<!--
-**ayazsna37/ayazsna37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Automation Engineer specializing in building efficient and scalable testing frameworks using Java and Selenium.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Programming Languages:** Java (Core to Advanced)
+- **Web Automation:** Selenium WebDriver
+- **API Testing:** Rest-Assured
+- **Frameworks:** TestNG, Maven, Cucumber (BDD)
+- **CI/CD:** Jenkins, GitHub Actions
+- **Tools:** Eclipse IDE, Postman, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Key Projects
+*(Hum inke link agle steps mein update karenge)*
+1. [Project 1 Name] - Brief description.
+2. [Project 2 Name] - Brief description.
+
+---
+You can find my detailed resume or connect with me on **[LinkedIn](YOUR_LINKEDIN_URL_HERE)**.
