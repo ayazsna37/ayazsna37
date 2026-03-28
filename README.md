@@ -16,4 +16,4 @@ I am an Automation Engineer specializing in building efficient and scalable test
 2. [Project 2 Name] - Brief description.
 
 ---
-You can find my detailed resume or connect with me on **[LinkedIn](YOUR_LINKEDIN_URL_HERE)**.
+You can find my detailed resume or connect with me on **[LinkedIn](linkedin.com/in/mo-ayaj-ahamad)**.
