@@ -11,7 +11,7 @@ I am a passionate **Automation Engineer (SDET)** with expertise in building robu
 - **Tools:** Eclipse IDE, Git & GitHub
 
 ### 🌟 Featured Projects
-1. **[Selenium-Automation-Framework](https://github.com/ayazsna37/Selenium-Live-Project)** 🛒
+1. **[Selenium-Live-Project](https://github.com/ayazsna37/Selenium-Live-Project)** 🛒
    - A professional Hybrid Framework using Java and Selenium.
    - Built with Page Object Model (POM) and Excel Data-Driven testing.
 
