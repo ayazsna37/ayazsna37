@@ -14,8 +14,7 @@ I am a dedicated **QA Engineer** with **3.7+ years of experience** specializing 
 * **Tools:** Git, GitHub, Jenkins (CI/CD), Power BI, MS Excel.
 
 ### 📊 Portfolio Highlights
-* **[SauceDemo Framework]([link-to-repo](https://github.com/ayazsna37/SauceDemo-Automation-Framework-POM
-)):** End-to-end POM framework with automated failure screenshots.
+* **[SauceDemo Framework](https://github.com/ayazsna37/SauceDemo-Automation-Framework-POM):** End-to-end POM framework with automated failure screenshots.
 * **[CI/CD Pipeline]:** Integrated Jenkins for automated test scheduling and execution.
 
 ### 📫 Connect with Me
